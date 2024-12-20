@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp_c_connect4_tdd", "tp_c_connect4_tdd\tp_c_connect4_tdd.csproj", "{BB314E62-04A8-4666-8ACE-0A95480DF7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp_c_connect4_tester", "tp_c_connect4_tester\tp_c_connect4_tester.csproj", "{B8FC1980-C66B-43C9-9574-D3DCBAA607CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB314E62-04A8-4666-8ACE-0A95480DF7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB314E62-04A8-4666-8ACE-0A95480DF7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB314E62-04A8-4666-8ACE-0A95480DF7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB314E62-04A8-4666-8ACE-0A95480DF7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FC1980-C66B-43C9-9574-D3DCBAA607CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FC1980-C66B-43C9-9574-D3DCBAA607CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FC1980-C66B-43C9-9574-D3DCBAA607CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FC1980-C66B-43C9-9574-D3DCBAA607CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
